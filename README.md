@@ -5,7 +5,6 @@
 
 ![Poliana GitHub stats](https://github-readme-stats.vercel.app/api?username=PolianaSouza&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSouza&layout=compact)](https://github.com/PolianaSouza/github-readme-stats)
 
 ## Tecnologias que eu uso atualmente
 <div style="display: inline_block"><br/>
